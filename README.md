@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TieKnotMath</h1>
-<h3 align="center">A passionate Mathematician Data Scientist.</h3>
+<h3 align="center">A passionate Mathematician and Data Scientist.</h3>
 
 - 📫 How to reach me **tieknotmath@protonmail.com**
 
